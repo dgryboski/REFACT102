@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/REFACT102/static/css/main.073c9b0a.css",
+    "main.js": "/REFACT102/static/js/main.183720c5.js",
+    "static/js/787.7eacbbec.chunk.js": "/REFACT102/static/js/787.7eacbbec.chunk.js",
+    "static/media/logo.svg": "/REFACT102/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/REFACT102/index.html",
+    "main.073c9b0a.css.map": "/REFACT102/static/css/main.073c9b0a.css.map",
+    "main.183720c5.js.map": "/REFACT102/static/js/main.183720c5.js.map",
+    "787.7eacbbec.chunk.js.map": "/REFACT102/static/js/787.7eacbbec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.183720c5.js"
+  ]
+}

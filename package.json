@@ -1,6 +1,5 @@
 {
   "homepage": "https://dgryboski.github.io/REFACT102",
-  // the rest of your package.json
   "name": "refact102",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "gh-pages -d build"
-  // the rest of your scripts
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
